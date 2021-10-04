@@ -4,4 +4,3 @@ Full-Stack asp .Net Core & Angular Developer
 👉Lovely Motor🏍
 👉Lovely gym🏋️‍♀️
 👉Tehran
-👉pv🔒😉
