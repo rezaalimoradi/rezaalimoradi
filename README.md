@@ -1,1 +1,1 @@
-.Net & React Developer
+.Net Full Stack Developer
